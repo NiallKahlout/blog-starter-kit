@@ -29,9 +29,9 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              Check out my personal github & The source code for this blog!{" "}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://github.com/NiallKahlout`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 available on GitHub
