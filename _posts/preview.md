@@ -10,5 +10,5 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 ---
-blog under construction
+my blog is now under construction
 ---
